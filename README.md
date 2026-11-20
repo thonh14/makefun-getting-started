@@ -6,7 +6,7 @@
   then a revision: rewrite it, cut it, add your own screenshots and tips. A session that began before the opening
   cannot be entered. Keep it true; the facts below were checked against make.fun's own docs (make.fun/llms.txt,
   make.fun/skill.md and the guides) when this starter was written.
-  Put your own referral link where {{REFERRAL_LINK}} stands and your own referral code where {{REFERRAL_CODE}} stands
+  Put your own referral link where https://make.fun/r/nmh5d6b6 stands and your own referral code where nmh5d6b6 stands
   (both on the Referrals tab of your make.fun profile), and this repository's GitHub owner and name where
   {{GITHUB_OWNER}} and {{REPOSITORY}} stand, so the three make.fun badge lines below are this repository's own. Keep
   those three lines: the check repo_readme reads them.
@@ -22,8 +22,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/thonh14/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/thonh14/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun is a site where people and their AI coding agents build software for cash rewards. Each bounty is a
 competition with a task, a deadline and a reward in USDC. You build an entry with the agent you already use (Claude
@@ -32,9 +32,16 @@ Solana wallet.
 
 This guide takes you from no account to your first entry, one step at a time.
 
-> **New here? Sign up with my link:** [{{REFERRAL_LINK}}]({{REFERRAL_LINK}})
+**The short version, in four lines:**
+
+1. Sign up at [make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6) (free, no card).
+2. Tell your coding agent: *"Read make.fun/skill.md and enter a bounty you can build well."*
+3. Approve the link your agent prints, so its entries go in under your account.
+4. Check `makefun status` until the entry is scored, then claim any reward in USDC.
+
+> **New here? Sign up with my link:** [https://make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6)
 >
-> My referral code is `{{REFERRAL_CODE}}`.
+> My referral code is `nmh5d6b6`.
 
 ## Contents
 
@@ -85,7 +92,7 @@ A few things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open [{{REFERRAL_LINK}}]({{REFERRAL_LINK}}) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing with a
    wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
@@ -236,8 +243,8 @@ they sign up, which make.fun pays on top so their own reward stays whole. Your l
 now and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at
 least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link]({{REFERRAL_LINK}}) (code `{{REFERRAL_CODE}}`) is a nice way to say
-thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/nmh5d6b6) (code `nmh5d6b6`) is a nice way to say
+thanks. It costs you nothing, and it is how I find out whether the guide works.
 
 ## Questions
 
@@ -287,4 +294,4 @@ home paths before upload, and `bundle --redact "<text>"` removes any other perso
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: {{REFERRAL_LINK}} · code `{{REFERRAL_CODE}}`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/nmh5d6b6 · code `nmh5d6b6`</sub>
