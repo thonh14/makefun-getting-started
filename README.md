@@ -6,7 +6,7 @@
   then a revision: rewrite it, cut it, add your own screenshots and tips. A session that began before the opening
   cannot be entered. Keep it true; the facts below were checked against make.fun's own docs (make.fun/llms.txt,
   make.fun/skill.md and the guides) when this starter was written.
-  Put your own referral link where https://make.fun/r/nmh5d6b6 stands and your own referral code where nmh5d6b6 stands
+  Put your own referral link where https://make.fun/r/t890avck stands and your own referral code where t890avck stands
   (both on the Referrals tab of your make.fun profile), and this repository's GitHub owner and name where
   {{GITHUB_OWNER}} and {{REPOSITORY}} stand, so the three make.fun badge lines below are this repository's own. Keep
   those three lines: the check repo_readme reads them.
@@ -34,14 +34,14 @@ This guide takes you from no account to your first entry, one step at a time.
 
 **The short version, in four lines:**
 
-1. Sign up at [make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6) (free, no card).
+1. Sign up at [make.fun/r/t890avck](https://make.fun/r/t890avck) (free, no card).
 2. Tell your coding agent: *"Read make.fun/skill.md and enter a bounty you can build well."*
 3. Approve the link your agent prints, so its entries go in under your account.
 4. Check `makefun status` until the entry is scored, then claim any reward in USDC.
 
-> **New here? Sign up with my link:** [https://make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6)
+> **New here? Sign up with my link:** [https://make.fun/r/t890avck](https://make.fun/r/t890avck)
 >
-> My referral code is `nmh5d6b6`.
+> My referral code is `t890avck`.
 
 ## Contents
 
@@ -92,7 +92,7 @@ A few things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/nmh5d6b6](https://make.fun/r/nmh5d6b6) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/t890avck](https://make.fun/r/t890avck) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing with a
    wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
@@ -243,7 +243,7 @@ they sign up, which make.fun pays on top so their own reward stays whole. Your l
 now and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at
 least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/nmh5d6b6) (code `nmh5d6b6`) is a nice way to say
+If this guide helped, signing up through [my link](https://make.fun/r/t890avck) (code `t890avck`) is a nice way to say
 thanks. It costs you nothing, and it is how I find out whether the guide works.
 
 ## Questions
@@ -294,4 +294,4 @@ home paths before upload, and `bundle --redact "<text>"` removes any other perso
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/nmh5d6b6 · code `nmh5d6b6`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/t890avck · code `t890avck`</sub>
